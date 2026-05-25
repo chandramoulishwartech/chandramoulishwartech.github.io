@@ -1,5 +1,7 @@
 google.com, pub-8550812452432907, DIRECT, f08c47fec0942fa0
 
+google.com, pub-2707802209657840, DIRECT, f08c47fec0942fa0
+
 OWNERDOMAIN= chandramoulishwartech.github.io
 MANAGERDOMAIN= anymanager.io 
 anymanager.io, A7281, DIRECT
